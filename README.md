@@ -7,14 +7,10 @@
 
  ## Example
  
- ![BiomGenerator_HeatMap](https://user-images.githubusercontent.com/49996889/130553093-703d0e3d-bf5d-4312-b027-41f354fb8404.jpg)
- 
-![BiomGenerator_HeightMap](https://user-images.githubusercontent.com/49996889/130553096-e909cba6-6107-478d-a799-e7a51b11d63e.jpg)
-
-![BiomGenerator_MoistureMap](https://user-images.githubusercontent.com/49996889/130553098-b4d6b197-c37f-41e9-8f57-aaadf09cba89.jpg)
-
-![BiomGenerator_Whole](https://user-images.githubusercontent.com/49996889/130553102-674baed2-9699-4c2c-925a-d06d62250491.jpg)
-
+![BiomGenerator_HeatMap](https://user-images.githubusercontent.com/49996889/130562563-0cfb3326-91c8-45c9-bf46-078872303b04.jpg)
+![BiomGenerator_HeightMap](https://user-images.githubusercontent.com/49996889/130562569-b86243ac-c7c3-4856-9aa3-a9510e819c91.jpg)
+![BiomGenerator_MoistureMap](https://user-images.githubusercontent.com/49996889/130562571-ea057be2-db99-4ee5-88ed-fdc282501425.jpg)
+![BiomGenerator_Whole](https://user-images.githubusercontent.com/49996889/130562572-1b21ee69-4a59-4279-95a4-f414225dcd6f.jpg)
 
  ## Credits
  
