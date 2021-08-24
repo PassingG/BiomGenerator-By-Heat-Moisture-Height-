@@ -5,22 +5,29 @@
  
  Randomize all value with Perlin Noise.
 
+ ## How to use?
+ 
+ 1.
+ 
+
  ## Example
  
  ### HeatMap
  
-![BiomGenerator_HeatMap](https://user-images.githubusercontent.com/49996889/130562563-0cfb3326-91c8-45c9-bf46-078872303b04.jpg)
-
+ <img src = "https://user-images.githubusercontent.com/49996889/130562563-0cfb3326-91c8-45c9-bf46-078872303b04.jpg" width="500">
+ 
+ 
  ### HeightMap
-![BiomGenerator_HeightMap](https://user-images.githubusercontent.com/49996889/130562569-b86243ac-c7c3-4856-9aa3-a9510e819c91.jpg)
+ <img src = "https://user-images.githubusercontent.com/49996889/130562569-b86243ac-c7c3-4856-9aa3-a9510e819c91.jpg" width="500">
 
 
  ### MoistureMap
-![BiomGenerator_MoistureMap](https://user-images.githubusercontent.com/49996889/130562571-ea057be2-db99-4ee5-88ed-fdc282501425.jpg)
+ <img src = "https://user-images.githubusercontent.com/49996889/130562571-ea057be2-db99-4ee5-88ed-fdc282501425.jpg" width="500">
 
 
  ### WholeMap
-![BiomGenerator_Whole](https://user-images.githubusercontent.com/49996889/130562572-1b21ee69-4a59-4279-95a4-f414225dcd6f.jpg)
+ <img src = "https://user-images.githubusercontent.com/49996889/130562572-1b21ee69-4a59-4279-95a4-f414225dcd6f.jpg" width="500">
+
 
  ## Credits
  
