@@ -47,6 +47,18 @@
  
  You can pick visualization mode.
 
+ ### 6.
+ 
+ <img src = "https://user-images.githubusercontent.com/49996889/130571917-47b2b72c-0780-4d44-b1b3-2acc3d4806e8.png" width="500">
+ 
+  You can control tree generation by change values.
+
+ ### 7.
+ 
+ <img src = "https://user-images.githubusercontent.com/49996889/130572170-519db5c8-10ef-4dd5-9dab-3936ebc83c21.png" width="500">
+ 
+  And then system will auto generate trees by biome datas.
+
  
  ## Example
  
