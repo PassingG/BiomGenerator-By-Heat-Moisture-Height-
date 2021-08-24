@@ -1,5 +1,8 @@
-# BiomGenerator(By Heat Moisture Height)
- Heat, Moisture, Height affect to biomGenerating
+# Biome Generator(By Heat Moisture Height)
+
+ Biome Generator System! Made with Unity 2019.4.12f1
+
+ Heat, Moisture, Height affect to biome Generating
 
  Generate biom by heat, moisture, height's value.
  
@@ -7,9 +10,44 @@
 
  ## How to use?
  
- 1.
+ ### 1.
  
+ <img src = "https://user-images.githubusercontent.com/49996889/130565340-ae409f77-973f-46e1-9ce8-7f309c0086c6.png" width="500">
+ 
+ Select "Prefab" folder's Quad prefab.
+ 
+ ### 2.
+ 
+ <img src = "https://user-images.githubusercontent.com/49996889/130565946-47389890-c067-4fdd-9cd5-f904e8461237.png" width="500">
 
+ |        | hottest |	hot |	cold |	coldest |
+ | ------ | ------ | ------ | ------ | ------ |
+ | dryest |	desert |	grassland |	tundra |	tundra |
+ | dry |	savanna |	savanna |	boreal | forest |	tundra |
+ | wet	| tropical | rainforest	| boreal | forest	| boreal | forest	| tundra |
+ | wettest |	tropical | rainforest |	tropical | rainforest |	tundra |	tundra |
+
+ I referred to this table. and I made two dimension array of biome data. If you want change biome, change these datas!
+ 
+ ### 3.
+ 
+ <img src = "https://user-images.githubusercontent.com/49996889/130570394-f79fb7a8-2c59-4eb0-a4ff-554c50708bb1.png" width="500">
+ 
+ You can control randomize data by change waves value.
+
+ ### 4.
+ 
+ <img src = "https://user-images.githubusercontent.com/49996889/130570794-6a75f77d-e8ad-48a1-b42b-487e6745c0ba.png" width="500">
+
+ This properties are data of per viewer's. (Height map, Moisture map, Heat map)
+ 
+ ### 5.
+ 
+ <img src = "https://user-images.githubusercontent.com/49996889/130571512-8df0e6fe-d9f1-4dce-9b32-c0588bd46938.png" width="500">
+ 
+ You can pick visualization mode.
+
+ 
  ## Example
  
  ### HeatMap
